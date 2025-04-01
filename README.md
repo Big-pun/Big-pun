@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrien
 - 👀 I’m interested in web development, anything food related, video games and martial arts 
-- 📚 I’m currently learning HTML5, CSS3, JavaScript, TypeScript, React, Angular, Vue, PHP & SQL
+- 📚 I’m currently learning HTML5, CSS3, JavaScript, TypeScript, Vue, PHP , SQL & Laravel
 - 📫 How to reach me : adrienthomas419@gmail.com
 - 😄 Pronouns: he / him 
 - ⚡  Fun fact: I used to be a pastry chef for more than a decade
